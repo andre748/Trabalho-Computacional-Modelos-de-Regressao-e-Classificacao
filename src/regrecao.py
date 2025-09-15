@@ -6,7 +6,7 @@ def predicao(X, beta):
     return X @ beta
 
 # Carregar o arquivo .dat
-data = np.loadtxt("C:/Users/andre/OneDrive/Desktop/Desinteligência natural/Trabalho Computacional Modelos de Regressão e Classificação/data/aerogerador.dat")
+data = np.loadtxt("data/aerogerador.dat")
 
 controle_figura = True
 
