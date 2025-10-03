@@ -158,7 +158,7 @@ def gauss_predict(X, modelo):
 # 4. Validação Monte Carlo
 # =============================================
 
-R = 50  # 500 rodadas conforme especificado
+R = 500  # 500 rodadas conforme especificado
 lambdas = [0.25, 0.5, 0.75]
 
 modelos = {
