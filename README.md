@@ -25,16 +25,16 @@ O trabalho foi desenvolvido como parte da disciplina de Inteligência Artificial
 
 **Exemplo de saída gráfica:**  
 **Conjunto de dados do aerogerador:**  
-![Figura 1 – Dataset do Aerogerador](results\conjunto_de_dados_do_aerogerador.png)
+![Figura 1 – Dataset do Aerogerador](results/conjunto_de_dados_do_aerogerador.png)
 
 **Modelos Ajustados (Dados de Treino) + Resíduos:**  
-![Figura 2 – Modelos Ajustados](results\modelos_ajustados.png)
+![Figura 2 – Modelos Ajustados](results/modelos_ajustados.png)
 
 **Comparação Estatística dos Modelos (Monte Carlo):**  
-![Figura 3 – Estatísticas de Validação](results\regressao_boxplot.png)
+![Figura 3 – Estatísticas de Validação](results/regressao_boxplot.png)
 
 **Resultados no Terminal:**  
-![Figura 4 – Saída Numérica da Validação](results\terminal_regressão.png)
+![Figura 4 – Saída Numérica da Validação](results/terminal_regressão.png)
 
 ---
 
